@@ -27,7 +27,7 @@ Scanner in = new Scanner(System.in);
       a = in.nextInt();
       b= in.nextInt();
    total=a+b;
- 
+ System.out.println("sum =" + sum());
 }
 
 }
